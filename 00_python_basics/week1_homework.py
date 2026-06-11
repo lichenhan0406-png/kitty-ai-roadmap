@@ -18,7 +18,7 @@ target_dict = {
 #2-1. 添加新药：请在代码中往 target_dict 里新增一个键值对：药名 "DFO"，靶点 "Iron Chelation"。
 target_dict["DFO"] = "Iron Chelation"
 #当查询 "RSL3" 时，打印出："RSL3 的靶点是 GPX4"
-target_dict.get("RSL3", "RSL3的靶点是GPX4")
+target_dict.get("RSL3", "未知")#后一个引号的意思是，如果查询不到对应值则返回...
 target_dict.get("Artemisinin", "Artemisinin的靶点未知")
 #3
 import pandas as pd

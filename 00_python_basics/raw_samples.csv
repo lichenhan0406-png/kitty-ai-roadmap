@@ -1,0 +1,8 @@
+Sample_ID,Compound_Name,Concentration_mM,QC_Status
+Sample_01,Erastin,10.5,Passed
+Sample_02,Gefitinib,,Pending
+Sample_03,Imatinib,5.0,Passed
+,,,
+Sample_04,Sorafenib,12.4,Passed
+Sample_05,Aspirin,20.0,Passed
+Sample_06,Erastin,10.5,Passed
