@@ -1,0 +1,9 @@
+Gene_Symbol,Control_Exp,Treated_Exp,Treatment_Drug,Cell_Line
+DMT1,12.5,3.1,Erastin,HeLa
+MFRN1,45.2,8.4,Gefitinib,HepG2
+MFRN2,,15.6,Imatinib,HeLa
+  ,,,,
+DMT1,12.5,3.1,Erastin,HeLa
+FTL,120.4,118.2,Aspirin,HepG2
+SLC25A37,8.1,75.4,Ferrostatin-1,HeLa
+MFRN1,45.2,8.4,Gefitinib,HepG2
